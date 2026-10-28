@@ -1,2 +1,3 @@
-Nombre: Miguel Garcia
-Correo: mn42@misena.edu.co
+Nombre: Miguel García
+Correo: correoprueba.comx
+cat kotlin.txt
